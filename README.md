@@ -12,8 +12,7 @@ This repository contains a MongoDB Cheat Sheet in the form of a PDF document. It
 - [File](#file)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## File
 
